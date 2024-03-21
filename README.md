@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Worththanks
 - 👀 I’m interested in programming and Data Analytics 
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning to get certification in Data Analytics and flutter
 - 💞️ I’m looking to collaborate on all project that contribute to humanity 
 - 📫 How to reach me worththanks@gmail.com 
 
